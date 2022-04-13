@@ -1,7 +1,7 @@
 
 exports.dada = (prefix, settings, pushname, ucapanWaktu) => {
 return `${ucapanWaktu} kak ${pushname}
-Berikut adalah list harga untuk sewa botz
+Berikut adalah list harga untuk sewa botz KazuKi
 
 *╭─▸*「 𝗟𝗜𝗦𝗧 𝗦𝗘𝗪𝗔 」
 *┴*
