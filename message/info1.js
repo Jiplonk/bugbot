@@ -27,7 +27,7 @@ return`
    X-Dev Team
    Yogi PW
    Hexagon
-   Dttaz
+   KazuKi
 
 *▸* FEATURE  BY  
    Decode Denpa
