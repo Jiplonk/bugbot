@@ -8,16 +8,16 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/Jiplonk"><img title="Author" src="https://img.shields.io/badge/Author-officialdittaz-blue.svg?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/Jiplonk"><img title="Author" src="https://img.shields.io/badge/Author-KAZUKIBOTZ-blue.svg?style=for-the-badge&logo=github" /></a>
 </p>
 <p align="center">
-<a href="#"><img title="mengapi" src="https://img.shields.io/static/v1?label=FREE&message=Amelia-Botz&color=green"></a>
+<a href="#"><img title="mengapi" src="https://img.shields.io/static/v1?label=FREE&message=KazuKi-Botz&color=green"></a>
 </p>
 
 
 </p>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=officialdittaz&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KazuKi&theme=monokai)
 
 </p>
 
