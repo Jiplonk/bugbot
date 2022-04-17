@@ -3,7 +3,7 @@
 
 </p>
 <p align="center">
-<a href="#"><img title="AMELIA-BOTZ" src="https://img.shields.io/badge/AMELIABOTZ-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="KazuKi-BOTZ" src="https://img.shields.io/badge/AMELIABOTZ-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 </div>
 
@@ -33,8 +33,8 @@
 * Unduh & Instal ImageMagick [`Klik Disini`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/officialdittaz/Amelia-Botz
-cd Amelia-Botz
+git clone https://github.com/Jiplonk/bugbot
+cd bugbot
 npm i
 npm start
 ```
@@ -67,7 +67,7 @@ npm start
 
 ## Connect With Me
 <p align="center">
- <a href="https://instagram.com/officialdittaz"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=black"/></a><a href="https://wa.me/+6285156137901"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
+ <a href="https://instagram.com/jiplonk3dt2"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=black"/></a><a href="https://wa.me/+6285156137901"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
 </p>
 
 
