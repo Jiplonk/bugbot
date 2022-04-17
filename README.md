@@ -3,12 +3,12 @@
 
 </p>
 <p align="center">
-<a href="#"><img title="KazuKi-BOTZ" src="https://img.shields.io/badge/AMELIABOTZ-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="KazuKi-BOTZ" src="https://img.shields.io/badge/KazuKiBOTZ-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 </div>
 
 <p align="center">
-  <a href="https://github.com/officialdittaz"><img title="Author" src="https://img.shields.io/badge/Author-officialdittaz-blue.svg?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/Jiplonk"><img title="Author" src="https://img.shields.io/badge/Author-officialdittaz-blue.svg?style=for-the-badge&logo=github" /></a>
 </p>
 <p align="center">
 <a href="#"><img title="mengapi" src="https://img.shields.io/static/v1?label=FREE&message=Amelia-Botz&color=green"></a>
